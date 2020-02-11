@@ -6,4 +6,4 @@ Connects to OpenWeatherMap API for real time data
 
 Here's how to get there
 
-https://simplypohyee.github.io/weather.github.com/
+https://simplypohyee.github.io/weather.github.io/
